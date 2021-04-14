@@ -1,2 +1,2 @@
 # turquoise-triangles
-Trying to learn openGL.
+My failed experiments to learn openGL.
